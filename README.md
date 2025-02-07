@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Rob 👋
+AI Engineer with 3+ years of experience in building and deploying ML systems.
 
-<!--
-**rlubenow/rlubenow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Projects
+- [Vision-Transformer-Implementation]() - ViT implementation with attention visualization
+- [MLOps-Toolkit]() - Complete MLOps pipeline with monitoring and A/B testing
+- [Real-Time-Object-Detection]() - YOLO-based detection with TensorRT optimization
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- Languages: Python, SQL
+- ML/DL: PyTorch, TensorFlow, scikit-learn
+- MLOps: Docker, Kubernetes, MLflow
+- Cloud: AWS, GCP
+- Tools: Git, Linux, Redis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- [Portfolio]()
+- [LinkedIn](https://www.linkedin.com/in/rlubenow/)
