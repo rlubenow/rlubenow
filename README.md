@@ -2,9 +2,7 @@
 AI Engineer with 3+ years of experience in building and deploying ML systems.
 
 ## 🚀 Featured Projects
-- [Vision-Transformer-Implementation]() - ViT implementation with attention visualization
-- [MLOps-Toolkit]() - Complete MLOps pipeline with monitoring and A/B testing
-- [Real-Time-Object-Detection]() - YOLO-based detection with TensorRT optimization
+- [Deepseek-R1 RAG Assistant](https://github.com/rlubenow/DEMO-deepseek-r1-rag-assistant) - Chat with the Deepseek-R1 model in a friendly user interface.
 
 ## 💻 Tech Stack
 - Languages: Python, SQL
@@ -14,5 +12,4 @@ AI Engineer with 3+ years of experience in building and deploying ML systems.
 - Tools: Git, Linux, Redis
 
 ## 📫 Connect with Me
-- [Portfolio]()
 - [LinkedIn](https://www.linkedin.com/in/rlubenow/)
