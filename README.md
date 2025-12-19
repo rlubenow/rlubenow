@@ -1,5 +1,3 @@
-# Robert Lubenow
-
 AI Engineer focused on building **production-grade GenAI systems**: agentic workflows, document intelligence pipelines, and AI infrastructure that is reliable, auditable, and scalable.
 
 I specialize in turning LLM capabilities into real products with strong evaluation, observability, and cost control.
@@ -10,7 +8,6 @@ I specialize in turning LLM capabilities into real products with strong evaluati
 
 - **Agentic systems** with explicit planning, execution, and verification loops
 - **Document intelligence pipelines** (OCR, VLMs, tables, handwriting → structured data)
-- **AI evaluation & reliability tooling** (regression testing, drift detection, tracing)
 - **Full-stack GenAI products** (Next.js + Python services)
 - **Production inference systems** (containerized, batch-aware, observable)
 
