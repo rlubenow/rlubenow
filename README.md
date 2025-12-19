@@ -1,4 +1,4 @@
-### Building production-grade GenAI systems and AI products
+## Building production-grade GenAI systems and AI products
 
 AI Engineer focused on building **production-grade GenAI systems**: agentic workflows, document intelligence pipelines, and AI infrastructure that is reliable, auditable, and scalable.
 
