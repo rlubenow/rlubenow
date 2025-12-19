@@ -1,3 +1,5 @@
+---
+
 AI Engineer focused on building **production-grade GenAI systems**: agentic workflows, document intelligence pipelines, and AI infrastructure that is reliable, auditable, and scalable.
 
 I specialize in turning LLM capabilities into real products with strong evaluation, observability, and cost control.
