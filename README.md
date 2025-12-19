@@ -9,21 +9,17 @@
 
 ## Tech Stack
 
-**AI / Orchestration**
-- LangChain / LangGraph
-- OpenAI / Anthropic APIs
-
-**Data & Storage**
-- Postgres
-- pgvector
-- Redis
-- MinIO
-
-**Product & Infra**
-- Next.js
-- FastAPI
-- Docker
-- n8n
+| **Domain**                          | **Tools & Technologies**                                                                               |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **LLMs & Inference**                | OpenAI, Anthropic Claude, Llama, Gemini, Mistral, Mixtral, Ollama, vLLM                                |
+| **Agentic Systems & Orchestration** | LangGraph, LangChain, Swarm, AutoGen, n8n                                                              |
+| **Retrieval & RAG**                 | pgvector, Milvus, Qdrant, LlamaIndex                                                                   |
+| **Evaluation & Observability**      | RAGAS, DeepEval, LangSmith, Weights & Biases, OpenTelemetry, Guardrails, Neptune                       |
+| **Data & Storage**                  | PostgreSQL, Redis, MinIO, S3, DynamoDB                                                                 |
+| **Frontend & Product**              | Next.js, Streamlit, TailwindCSS, shadcn/ui                                                             |
+| **Backend & APIs**                  | FastAPI, Pydantic, Async workers, SSE / WebSockets                                                     |
+| **Infrastructure & Deployment**     | Docker, Docker Compose, Kubernetes                                                                     |
+| **Cloud & Platforms**               | AWS, Azure, Cost Controls                                                                              |
 
 ---
 
