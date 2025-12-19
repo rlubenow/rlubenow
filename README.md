@@ -1,17 +1,9 @@
-## Building production-grade GenAI systems and AI products
-
-AI Engineer focused on building **production-grade GenAI systems**: agentic workflows, document intelligence pipelines, and AI infrastructure that is reliable, auditable, and scalable.
-
-I specialize in turning LLM capabilities into real products with strong evaluation, observability, and cost control.
-
----
-
 ## What I Build
 
 - **Agentic systems** with explicit planning, execution, and verification loops
 - **Document intelligence pipelines** (OCR, VLMs, tables, handwriting → structured data)
 - **Full-stack GenAI products** (Next.js + Python services)
-- **Production inference systems** (containerized, batch-aware, observable)
+- **Production inference systems** (containerized, secure, observable)
 
 ---
 
@@ -20,41 +12,40 @@ I specialize in turning LLM capabilities into real products with strong evaluati
 **AI / Orchestration**
 - LangChain / LangGraph
 - OpenAI / Anthropic APIs
-- Tool calling, structured outputs, HITL
 
 **Data & Storage**
 - Postgres
 - pgvector
 - Redis
-- S3 / MinIO
+- MinIO
 
 **Product & Infra**
-- Next.js (App Router, streaming)
+- Next.js
 - FastAPI
 - Docker
-- CI/CD patterns
-- n8n (workflow automation, awareness)
+- n8n
 
 ---
 
 ## Portfolio Projects
 
-### Atlas — Research Assistant System *(Live demo planned)*
-Structured, non-chat research assistant that produces verifiable research artifacts:
-- research plans
-- source lists
-- evidence tables
-- structured reports with uncertainty flags
+### Atlas — Research Assistant System *(Live demo)*
+Focused research assistant that produces verifiable research artifacts and a domain-expert agent. 
 
-**Tech:** LangGraph, Postgres, Redis, pgvector, S3/MinIO, Next.js  
 🔗 Repo: https://github.com/rlubenow/atlas-research-assistant
 
 ---
 
-### DocFlow — Document Intelligence & Data Ingestion SaaS
-Production-grade pipeline for scanned documents (tables, handwriting, forms) → structured, auditable outputs with human review.
+### NewsOps — n8n Automation *(Live demo)*
+Daily AI newsletter aggregation + summarization pipeline with a dashboard view.
 
-**Tech:** Next.js, Postgres, S3/MinIO, OCR/VLMs, background workers  
+🔗 Repo: https://github.com/rlubenow/newsops-n8n
+
+---
+
+### DocFlow — Document Intelligence & Data Ingestion SaaS
+Production-grade pipeline for digitizing data from scanned documents (tables, handwriting, forms, etc.).
+
 🔗 Repo: https://github.com/rlubenow/docflow-document-intelligence
 
 ---
@@ -62,20 +53,11 @@ Production-grade pipeline for scanned documents (tables, handwriting, forms) →
 ### Inference Engine Runtime (Docker)
 Reusable containerized inference service focused on throughput, latency, and observability.
 
-**Tech:** Docker, REST APIs, batching, model routing, metrics  
 🔗 Repo: https://github.com/rlubenow/inference-engine-runtime
 
 ---
 
-### NewsOps — n8n Automation *(Live demo planned)*
-Daily AI newsletter aggregation + summarization pipeline with a dashboard view.
-
-**Tech:** n8n, LLM summarization, Next.js dashboard  
-🔗 Repo: https://github.com/rlubenow/newsops-n8n
-
----
-
-### Market Research Copilot *(Domain project)*
+### Market Research Copilot
 Multi-agent system that generates research briefs on stocks/crypto using news, sentiment, and financial indicators.  
 *(Research-only, not financial advice.)*
 
@@ -83,7 +65,7 @@ Multi-agent system that generates research briefs on stocks/crypto using news, s
 
 ---
 
-### Quantum ML Feasibility Advisor *(Domain project)*
+### Quantum ML Feasibility Advisor
 Agent that evaluates whether and how quantum ML could apply to a given problem, with a structured rubric and citations.
 
 🔗 Repo: https://github.com/rlubenow/quantum-ml-feasibility-advisor
