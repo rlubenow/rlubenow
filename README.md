@@ -20,12 +20,3 @@
 | **Backend & APIs**                  | FastAPI, Pydantic, Async workers, SSE / WebSockets                                                     |
 | **Infrastructure & Deployment**     | Docker, Docker Compose, Kubernetes                                                                     |
 | **Cloud & Platforms**               | AWS, Azure, Cost Controls                                                                              |
-
----
-
-## Background
-
-- **AI Engineer — Thermo Fisher Scientific**
-- M.S. in Applied Artificial Intelligence (University of San Diego '22)
-
----
