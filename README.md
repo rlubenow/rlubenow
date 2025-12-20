@@ -29,8 +29,3 @@
 - M.S. in Applied Artificial Intelligence (University of San Diego '22)
 
 ---
-
-## Connect
-
-- GitHub: https://github.com/rlubenow
-- LinkedIn: https://www.linkedin.com/in/rlubenow/
