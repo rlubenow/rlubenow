@@ -1,22 +1,6 @@
-## What I Build
+# rob.lubenow.us
 
-- **Agentic systems** with explicit planning, execution, and verification loops
-- **Document intelligence pipelines** (OCR, VLMs, tables, handwriting → structured data)
-- **Full-stack GenAI products** (Next.js + Python services)
-- **Production inference systems** (containerized, secure, observable)
+Source code for my personal website and project portfolio.
+The site highlights selected AI projects and demos.
 
----
-
-## Tech Stack
-
-| **Domain**                          | **Tools & Technologies**                                                                               |
-| ----------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| **LLMs & Inference**                | OpenAI, Anthropic Claude, Llama, Gemini, Mistral, Mixtral, Ollama, vLLM                                |
-| **Agentic Systems & Orchestration** | LangGraph, LangChain, Swarm, AutoGen, n8n                                                              |
-| **Retrieval & RAG**                 | pgvector, Milvus, Qdrant, LlamaIndex                                                                   |
-| **Evaluation & Observability**      | RAGAS, DeepEval, LangSmith, Weights & Biases, OpenTelemetry, Guardrails, Neptune                       |
-| **Data & Storage**                  | PostgreSQL, Redis, MinIO, S3, DynamoDB                                                                 |
-| **Frontend & Product**              | Next.js, Streamlit, TailwindCSS, shadcn/ui                                                             |
-| **Backend & APIs**                  | FastAPI, Pydantic, Async workers, SSE / WebSockets                                                     |
-| **Infrastructure & Deployment**     | Docker, Docker Compose, Kubernetes                                                                     |
-| **Cloud & Platforms**               | AWS, Azure, Cost Controls                                                                              |
+👉 https://rob.lubenow.us
