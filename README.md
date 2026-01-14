@@ -2,7 +2,7 @@
 
 Personal website and AI portfolio source code.
 
-I use this space to publish **small, well-scoped projects** that demonstrate the skills I use professionally (without sharing employer work).  
+I use this space to publish small projects that demonstrate the skills I use professionally (without sharing employer work).  
 Everything here is built independently and intended for public sharing.  
 No employer or proprietary work is included.
 
@@ -12,6 +12,7 @@ No employer or proprietary work is included.
 
 ## What you'll find here
 
+Projects in industries that I have worked in, as well as projects in fields I am interested in.
 Pinned repositories and demos focused on:
 
 - **GenAI & agentic systems** — planning, execution, verification loops  
