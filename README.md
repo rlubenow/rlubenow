@@ -3,7 +3,8 @@
 Personal website and AI portfolio source code.
 
 I use this space to publish **small, well-scoped projects** that demonstrate the skills I use professionally (without sharing employer work).  
-Everything here is built independently and is safe to share publicly (NDA / IP respected).
+Everything here is built independently and intended for public sharing.  
+No employer or proprietary work is included.
 
 👉 https://rob.lubenow.us
 
